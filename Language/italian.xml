@@ -151,7 +151,7 @@
     </Record>
     <Record>
       <Key>Nitrogen</Key>
-      <Value>Azoto</Value>
+      <Value>Nitrogeno</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
@@ -167,7 +167,7 @@
     </Record>
     <Record>
       <Key>NitrousOxide</Key>
-      <Value>Ossido di diazoto</Value>
+      <Value>Protossido di azoto</Value>
     </Record>
   </Gases>
   <Actions>
@@ -181,7 +181,7 @@
     </Record>
     <Record>
       <Key>Mine</Key>
-      <Value>Mina</Value>
+      <Value>Scava</Value>
     </Record>
     <Record>
       <Key>Swap</Key>
@@ -329,11 +329,11 @@
     </Record>
     <Record>
       <Key>ForceClose</Key>
-      <Value>Forza chiusura</Value>
+      <Value>Forza Chiusura</Value>
     </Record>
     <Record>
       <Key>ForceOpen</Key>
-      <Value>Forza apertura</Value>
+      <Value>Forza Apertura</Value>
     </Record>
     <Record>
       <Key>Vend</Key>
@@ -343,7 +343,7 @@
   <Things>
     <Record>
       <Key>ApplianceMicrowave</Key>
-      <Value>Micro-onde</Value>
+      <Value>Forno a microonde</Value>
     </Record>
     <Record>
       <Key>ApplianceReagentProcessor</Key>
